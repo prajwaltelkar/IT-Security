@@ -4,7 +4,7 @@ In this repository I have added some work related to network security.
 
 ## Tcpdump
 
-In this experiment we shall some features of tcpdump which is an efficient tool to analyse network traffic and troubleshoot.
+In this experiment we shall see some features of tcpdump which is an efficient tool to analyse network traffic and troubleshoot.
 
 #### Tcpdump <br>
 <t> tcpdump is a data-network packet analyzer computer program that runs under a command line interface. It allows the user to display TCP/IP and other packets being transmitted or received over a network to which the computer is attached.
